@@ -27,6 +27,10 @@
 
 ---
 
+> **ℹ️ Note:** This is an R&D fork of the original [Microsoft UFO repository](https://github.com/microsoft/UFO). This fork is maintained by DarbotLabs for research and development purposes. For the official Microsoft version, please visit the [original repository](https://github.com/microsoft/UFO).
+
+---
+
 ## ✨ Key Capabilities
 <div align="center">
 
@@ -97,7 +101,7 @@ UFO requires **Python >= 3.10** running on **Windows OS >= 10**. It can be insta
 # conda activate ufo
 
 # clone the repository
-git clone https://github.com/microsoft/UFO.git
+git clone https://github.com/darbotlabs/UFO.git
 cd UFO
 # install the requirements
 pip install -r requirements.txt
